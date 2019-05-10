@@ -15,5 +15,7 @@ namespace RBtn_Msg
         {
             InitializeComponent();
         }
+
+    
     }
 }
